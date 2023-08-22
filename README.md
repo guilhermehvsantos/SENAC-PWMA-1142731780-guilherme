@@ -1,14 +1,12 @@
 
-# PWMA - Aula 1
+# PWMA - Programação Web Matutino 2º Semestre
 
-Exercício da aula 1 de Programação Web
+Projeto a ser desenvolvido ao longo do semestre. Grupo 17.
 
+## Tema nº 03
 
-## Objetivo
-
-- Conhecer e praticar os comandos a ferramenta de versionamento Git. 
-- Dar os primeiros passos em programação web.
-- Registrar o aprendizado do curso.
+Sistema de Gerenciamento de Atendimento ao Cliente. 
+Solução para rastrear tickets de suporte, automatizar respostas e melhorar a experiência do cliente.
 
 ## Stack utilizada
 
