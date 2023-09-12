@@ -17,4 +17,5 @@ Solução para rastrear tickets de suporte, automatizar respostas e melhorar a e
 ## Autores
 
 - [@GuilhermeHVS](https://github.com/guilhermehvsantos)
+- [@Rodrigo Nogueira](https://github.com/rodrigoeducativa)
 
