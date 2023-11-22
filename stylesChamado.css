@@ -117,4 +117,9 @@ footer {
   clear: both;
 }
 
+@media screen and (max-height: 660px) {
+   footer {
+     bottom: -100px;
+   }
+ }
 
